@@ -1,6 +1,7 @@
 {
   "users" : {
     "id": 1,
-    "name": "Trivikram"
+    "name": "Trivikram",
+    "age": 27
   }
 }
